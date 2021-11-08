@@ -26,3 +26,7 @@ wise , yearly month wise. Find key metrics and factors and show the meaningful r
 ---------------------------------------------------------------------------------------------------------
 In today’s world banking is also a platform which is almost automated. However many people face different issues during online banking and also many are not aware of correct safety measure for their accounts. To create a bot using Natural Language Processing and deep learning which will be able to give answers for various banking related issues like your bank id, transaction details, Security services, loan policies, your account status etc.
 ---------------------------------------------------------------------------------------------------------**
+
+
+
+![logo](https://media-exp1.licdn.com/dms/image/C560BAQEhQXerGAQpxg/company-logo_200_200/0/1620287677994?e=1644451200&v=beta&t=7aC_A15sUiSIVVyDPd74C0OwRUXbMzZgyb7P5rQ5nUc)
