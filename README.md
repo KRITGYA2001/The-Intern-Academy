@@ -6,11 +6,11 @@ ________________________________________________________________________________
 # Team Name :- compylers
 
 # Team Members :- 
-1.Meghraj
+!1.Meghraj(https://www.linkedin.com/in/meghraj-gupta-20788519b/)
 
-2.Kanika Joshi
+!2.Kanika Joshi(https://www.linkedin.com/in/kanikajoshi-kj/)
 
-3.Kritgya Kumar
+!3.Kritgya Kumar(https://www.linkedin.com/in/kritgya1109/)
 
 __________________________________________________________________________________________________________
 
