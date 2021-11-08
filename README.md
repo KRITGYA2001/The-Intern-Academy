@@ -1,3 +1,4 @@
+<center>![logo](https://media-exp1.licdn.com/dms/image/C560BAQEhQXerGAQpxg/company-logo_200_200/0/1620287677994?e=1644451200&v=beta&t=7aC_A15sUiSIVVyDPd74C0OwRUXbMzZgyb7P5rQ5nUc)</center> 
 # The-Intern-Academy
 
 **This repository contains the work done by me and my team as Data Science and Machine Learning interns for The Intern Academy.**
@@ -29,4 +30,3 @@ In today’s world banking is also a platform which is almost automated. However
 
 
 
-![logo](https://media-exp1.licdn.com/dms/image/C560BAQEhQXerGAQpxg/company-logo_200_200/0/1620287677994?e=1644451200&v=beta&t=7aC_A15sUiSIVVyDPd74C0OwRUXbMzZgyb7P5rQ5nUc)
