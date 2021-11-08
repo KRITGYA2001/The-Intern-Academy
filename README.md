@@ -1,16 +1,16 @@
 ![logo](https://media-exp1.licdn.com/dms/image/C560BAQEhQXerGAQpxg/company-logo_200_200/0/1620287677994?e=1644451200&v=beta&t=7aC_A15sUiSIVVyDPd74C0OwRUXbMzZgyb7P5rQ5nUc)
-# The-Intern-Academy
+# [The-Intern-Academy](https://www.linkedin.com/company/the-intern-academy/)
 
 **This repository contains the work done by me and my team as Data Science and Machine Learning interns for The Intern Academy.**
 _________________________________________________________________________________________________________
 # Team Name :- compylers
 
 # Team Members :- 
-![1.Meghraj](https://www.linkedin.com/in/meghraj-gupta-20788519b/)
+[1.Meghraj](https://www.linkedin.com/in/meghraj-gupta-20788519b/)
 
-!2.Kanika Joshi(https://www.linkedin.com/in/kanikajoshi-kj/)
+[2.Kanika Joshi](https://www.linkedin.com/in/kanikajoshi-kj/)
 
-!3.Kritgya Kumar(https://www.linkedin.com/in/kritgya1109/)
+[3.Kritgya Kumar](https://www.linkedin.com/in/kritgya1109/)
 
 __________________________________________________________________________________________________________
 
